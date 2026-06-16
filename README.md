@@ -14,7 +14,4 @@ CS @ FAST-NUCES Karachi · AI · Full-stack · Low-level systems · 3rd place AI
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=wania-fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wania-fatima&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=wania-fatima&color=blue)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=wania-fatima&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=7)
