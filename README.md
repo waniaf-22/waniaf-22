@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER BLOCK -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Wania%20Fatima&fontSize=60&fontColor=c9b8ff&fontAlignY=38&desc=Builder%20of%20compilers%2C%20dashboards%2C%20and%20things%20that%20shouldn't%20work%20but%20do&descSize=15&descAlignY=60&descColor=a89bcc&animation=fadeIn" />
 
 </div>
@@ -114,46 +113,46 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🚌 SwiftBus
+Full-stack intercity bus booking platform built for a Software Engineering course.
+Three distinct portals — Passenger (search, seat selection, real-time tracking, wallet, support chat), Driver, and Admin — all backed by Supabase with row-level security, real-time subscriptions, and a tiered refund engine.
+
+`TypeScript` · `React` · `Supabase` · `TailwindCSS` · `Vite`
+
+[→ View Repo](https://github.com/Sam-ee-r/SwiftBus---SE-Project)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔵 PixelForge Compiler
 Custom compiler written in C from the ground up.
-Built for a fictional pixel-based instruction language — covers lexing, parsing, and code generation.
+Built for a fictional pixel-based instruction language — covers lexing, parsing, and code generation end-to-end without any compiler framework.
 
 `C`
 
 [→ View Repo](https://github.com/waniaf-22/PixelForge-Compiler)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🟢 Neon Tetris
+### 🎮 Neon Tetris
 Classic Tetris rebuilt in C++ with Raylib.
-Full neon aesthetic, smooth game loop, and collision logic written without a physics engine.
+Full neon aesthetic, smooth game loop, and collision logic written without a physics engine — straight to the metal.
 
 `C++` · `Raylib`
 
 [→ View Repo](https://github.com/waniaf-22/cpp-neon-tetris-raylib)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🟣 Smart UAV Dashboard
-Real-time monitoring interface for UAV telemetry data.
-Visualizes live flight data in a clean, responsive dashboard.
+### 🔗 More on my portfolio
+These three represent the range — systems, web, and games.
+Explore the rest of my work including AI experiments and embedded projects.
 
-[→ View Repo](https://github.com/waniaf-22/Smart-UAV-Monitoring-Dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟡 Portfolio v1
-First portfolio site built from scratch — no frameworks, just HTML, CSS, and vanilla JS.
-Foundation for understanding the web before building on top of it.
-
-`HTML` · `CSS` · `JS`
-
-[→ View Repo](https://github.com/waniaf-22/Portfolio--HTML-CSS-JS--ICT)
+[→ portfolio-wania-fatima.vercel.app](https://portfolio-wania-fatima.vercel.app)
 
 </td>
 </tr>
