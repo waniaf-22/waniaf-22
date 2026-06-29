@@ -23,18 +23,17 @@
 ## `whoami`
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                       │
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
 │   CS student @ FAST-NUCES Karachi  ·  Expected 2027                  │
-│                                                                       │
+│                                                                      │
 │   I build across the stack — from React UIs down to custom compilers │
 │   in C. I care about how software actually works underneath.         │
-│                                                                       │
+│                                                                      │
 │   Areas: AI · Full-stack Web · Low-level Systems · Embedded          │
-│                                                                       │
-│   🥉  3rd Place — AI Mustaqbil Hackathon                              │
-│                                                                       │
-└─────────────────────────────────────────────────────────────────────┘
+│                                                                      │                         
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
