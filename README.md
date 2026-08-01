@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Wania%20Fatima&fontSize=60&fontColor=c9b8ff&fontAlignY=45&animation=fadeIn" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Wania%20Fatima&fontSize=65&fontColor=c9b8ff&fontAlignY=40&animation=fadeIn&desc=Systems%20%7C%20Web%20%7C%20AI&descAlignY=58&descSize=18&descColor=e0d5ff" />
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C9B8FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+FAST-NUCES+Karachi;I+build+from+the+metal+up;Compilers+%C2%B7+Web+Apps+%C2%B7+Neural+Nets;Currently+shipping+SwiftBus" alt="Typing SVG" />
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/◈%20Portfolio-portfolio--wania--fatima.vercel.app-c9b8ff?style=for-the-badge&labelColor=0f0c29)](https://portfolio-wania-fatima.vercel.app)
 &nbsp;
@@ -18,150 +18,137 @@
 
 <br/>
 
----
+## About Me
 
-## `whoami`
-
+```yaml
+name: Wania Fatima
+role: CS Undergrad @ FAST-NUCES Karachi
+graduating: 2027
+focus: [AI/ML, Full-Stack Web, Low-Level Systems, Embedded]
+philosophy: >
+ I don't just use the stack — I build the layers underneath it.
+ React on top, hand-rolled compilers and game engines underneath.
+currently:
+ - Shipping SwiftBus, a full real-time bus booking platform
+ - Wrote a compiler from scratch in C — no frameworks, just me and the grammar
+ - Building games straight against Raylib, no physics engine training wheels
+fun_fact: I'd rather debug a segfault than a merge conflict
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   CS student @ FAST-NUCES Karachi  ·  Expected 2027                  │
-│                                                                      │
-│   I build across the stack — from React UIs down to custom compilers │
-│   in C. I care about how software actually works underneath.         │
-│                                                                      │
-│   Areas: AI · Full-stack Web · Low-level Systems · Embedded          │
-│                                                                      │                         
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
 
----
-
-## Stack
-
-<details open>
-<summary><b>🔤 Languages</b></summary>
 <br/>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white)
+## Tech Stack
 
-</details>
+<div align="center">
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
+**Languages**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Bash"/>
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Vite"/>
+
+<br/><br/>
+
+**Backend & Data**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="MySQL"/>
+
+<br/><br/>
+
+**AI / ML**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Matplotlib"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" height="60" style="border-radius:50%;padding:10px;background:#161b22;margin:4px;" title="Arduino"/>
+
+</div>
+
 <br/>
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Data</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI / ML</b></summary>
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Raylib](https://img.shields.io/badge/Raylib-FFFFFF?style=flat-square&logo=raylib&logoColor=black)
-
-</details>
-
----
 
 ## Selected Projects
-
-> Things I've built that I'm proud of.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚌 SwiftBus
-Full-stack intercity bus booking platform built for a Software Engineering course.
-Three distinct portals — Passenger (search, seat selection, real-time tracking, wallet, support chat), Driver, and Admin — all backed by Supabase with row-level security, real-time subscriptions, and a tiered refund engine.
+### SwiftBus
+Full-stack intercity bus booking platform built for a Software Engineering course. Three distinct portals — Passenger (search, seat selection, real-time tracking, wallet, support chat), Driver, and Admin — all backed by Supabase with row-level security, real-time subscriptions, and a tiered refund engine.
 
-`TypeScript` · `React` · `Supabase` · `TailwindCSS` · `Vite`
+`TypeScript` `React` `Supabase` `TailwindCSS` `Vite`
 
-[→ View Repo](https://github.com/Sam-ee-r/SwiftBus---SE-Project)
+[View Repo →](https://github.com/Sam-ee-r/SwiftBus---SE-Project)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 PixelForge Compiler
-Custom compiler written in C from the ground up.
-Built for a fictional pixel-based instruction language — covers lexing, parsing, and code generation end-to-end without any compiler framework.
+### PixelForge Compiler
+Custom compiler written in C from the ground up. Built for a fictional pixel-based instruction language — covers lexing, parsing, and code generation end-to-end without any compiler framework.
 
 `C`
 
-[→ View Repo](https://github.com/waniaf-22/PixelForge-Compiler)
+[View Repo →](https://github.com/waniaf-22/PixelForge-Compiler)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Neon Tetris
-Classic Tetris rebuilt in C++ with Raylib.
-Full neon aesthetic, smooth game loop, and collision logic written without a physics engine — straight to the metal.
+### Neon Tetris
+Classic Tetris rebuilt in C++ with Raylib. Full neon aesthetic, smooth game loop, and collision logic written without a physics engine — straight to the metal.
 
-`C++` · `Raylib`
+`C++` `Raylib`
 
-[→ View Repo](https://github.com/waniaf-22/cpp-neon-tetris-raylib)
+[View Repo →](https://github.com/waniaf-22/cpp-neon-tetris-raylib)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 More on my portfolio
-These three represent the range — systems, web, and games.
-Explore the rest of my work including AI experiments and embedded projects.
+### More on my portfolio
+These three represent the range — systems, web, and games. Explore the rest of my work including AI experiments and embedded projects.
 
-[→ portfolio-wania-fatima.vercel.app](https://portfolio-wania-fatima.vercel.app)
+[Full portfolio: portfolio-wania-fatima.vercel.app](https://portfolio-wania-fatima.vercel.app)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waniaf-22&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=c9b8ff&line=c9b8ff&point=ffffff" width="100%" />
+
+<br/><br/>
 
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=waniaf-22&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117" />
 &nbsp;&nbsp;
@@ -173,7 +160,7 @@ Explore the rest of my work including AI experiments and embedded projects.
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
